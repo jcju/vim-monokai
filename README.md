@@ -3,7 +3,8 @@ vim-monokai
 
 Monokai color scheme with function & class highlight for C/C++. 
 
-* Thanks to [crusoexia/vim-monokai](https://github.com/crusoexia/vim-monokai). 
+* Acknowledgement to [crusoexia/vim-monokai](https://github.com/crusoexia/vim-monokai). 
+* Acknowledgement to [@Janosimas](https://stackoverflow.com/a/10140882/2753374).
 
 Install
 -------
@@ -23,6 +24,8 @@ Copy below command to your `~/.vimrc`:
 syntax on
 colorscheme monokai
 ```
+
+To enable function highlight for C/C++:
 
 ```bash
 mkdir -p ~/.vim/syntax
