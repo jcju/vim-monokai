@@ -1,7 +1,7 @@
 vim-monokai
 ===========
 
-Vim doesn't support function highlighting for C/C++.
+Vim doesn't support function name highlighting for C/C++.
 
 This is a simple solution of function highlighting & class highlighting for C/C++, with a Monokai theme maintained by [crusoexia/vim-monokai](https://github.com/crusoexia/vim-monokai). 
 
@@ -26,8 +26,8 @@ syntax on
 colorscheme monokai
 ```
 
-Eenable function highlight for C/C++
-------------------------------------
+Enable function highlighting for C/C++
+--------------------------------------
 
 ```bash
 mkdir -p ~/.vim/syntax
